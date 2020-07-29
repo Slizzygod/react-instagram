@@ -1,5 +1,6 @@
 ## React Instagram
-### Написан с использованием [json-server](https://www.npmjs.com/package/json-server)
+Написан с использованием [json-server](https://www.npmjs.com/package/json-server)
+---
 ***Как запускать?***
 ---
       1. git clone https://github.com/Slizzygod/react-instagram.git
